@@ -1,0 +1,67 @@
+[33mcommit 0a122768ec7ce77bf3520dbb554962b89a27520c[m[33m ([m[1;36mHEAD -> [m[1;32mcabecera[m[33m)[m
+Author: Camilo Q <camilo.quiceno.q@gmail.com>
+Date:   Sat Dec 7 15:11:53 2019 -0500
+
+    Estructura inicial de la cabecera
+
+[1mdiff --git a/blogpost.html b/blogpost.html[m
+[1mindex bfc3c2c..0be331e 100644[m
+[1m--- a/blogpost.html[m
+[1m+++ b/blogpost.html[m
+[36m@@ -5,6 +5,9 @@[m
+     </head>[m
+     <body>[m
+         <div id = "container">[m
+[32m+[m[32m            <div id="cabecera">[m
+[32m+[m[32m                Cabecera[m
+[32m+[m[32m            </div>[m
+             <div id = "post">[m
+                  <h1>Este es el titulo atractivo e interesante del post</h1>[m
+                  <p>Y este es el parrafo de inicio de inicio donde vamos a explicar las cosas increibles que se pueden hacer con las ramas </p>[m
+[1mdiff --git "a/\357\200\233" "b/\357\200\233"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1a37ea3[m
+[1m--- /dev/null[m
+[1m+++ "b/\357\200\233"[m
+[36m@@ -0,0 +1,41 @@[m
+[32m+[m[32m[33mcommit 89cb2b80b28925fa603cdcf6f54f28118b818dca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Sat Dec 7 15:03:41 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Commit al master del blogpost en su version mas reciente[m
+[32m+[m
+[32m+[m[32m[33mcommit 657cb0120fbb355d4c2a20515beaac2dcddf38c7[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Thu Dec 5 21:42:03 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Reemplazo por una version por otra de la historia[m
+[32m+[m
+[32m+[m[32m[33mcommit d84fcc0153a568a6e572689301345710d9e90e93[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Thu Dec 5 21:37:25 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Cambio de maestria[m
+[32m+[m
+[32m+[m[32m[33mcommit 5fca3425036472374b69fba883ebd27af30fce6d[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Thu Dec 5 21:37:03 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Cambio de vida[m
+[32m+[m
+[32m+[m[32m[33mcommit 8d1de377ef9fd2fa5605a467575e8d06c7f4f872[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Thu Dec 5 21:36:08 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Arranco mi proyecto real con html y css[m
+[32m+[m
+[32m+[m[32m[33mcommit 6a97744cecf7abf16fde84d76922db4f1962f82a[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Thu Dec 5 20:50:33 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Cambios para reflejar la edad correcta[m
+[32m+[m
+[32m+[m[32m[33mcommit cda1a3477bbae2e64231fc311d57666e81702cbc[m[m
+[32m+[m[32mAuthor: Camilo Q <camilo.quiceno.q@gmail.com>[m
+[32m+[m[32mDate:   Thu Dec 5 20:47:14 2019 -0500[m
+[32m+[m
+[32m+[m[32m    Este es el primer commit de este archivo[m
